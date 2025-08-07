@@ -1,0 +1,20 @@
+[
+  {
+    "id": "002",
+    "type": "Jet",
+    "armament": "MachineGun",
+    "available": false
+  },
+  {
+    "id": "005",
+    "type": "Jet",
+    "armament": "Ballistics",
+    "available": false
+  },
+  {
+    "id": "009",
+    "type": "Drone",
+    "armament": "Missile",
+    "available": false
+  }
+]

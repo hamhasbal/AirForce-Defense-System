@@ -1,0 +1,14 @@
+[
+  {
+    "id": "778",
+    "type": "Jet",
+    "armament": "JDAM",
+    "available": false
+  },
+  {
+    "id": "665",
+    "type": "Drone",
+    "armament": "Blue Arrow-7",
+    "available": false
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "002",
+    "name": "Hammad",
+    "rank": "Lt. Col",
+    "assignedAircraftId": "009",
+    "active": true
+  },
+  {
+    "id": "004",
+    "name": "Fayaz",
+    "rank": "Driver",
+    "assignedAircraftId": "005",
+    "active": true
+  },
+  {
+    "id": "007",
+    "name": "Aaraiz",
+    "rank": "Jr. pilot",
+    "assignedAircraftId": "002",
+    "active": true
+  }
+]
